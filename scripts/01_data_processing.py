@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 from tqdm import tqdm
 
-N_BLOCKS = 2
+N_BLOCKS = 1
 
 root = os.path.dirname(os.path.abspath(__file__))
 
@@ -15,13 +15,15 @@ base_file_name = "-28aug2025.csv"
 
 STARTING_DATE = datetime.strptime("2017-01-01", "%Y-%m-%d")
 
+
 AGE_CATS = {
     "15-19 years": 1,
-    "20-29 years": 2,
-    "30-39 years": 3,
-    "40-49 years": 4,
-    "50-59 years": 5,
-    "60+ years": 6,
+    "20-24 years": 2,
+    "25-29 years": 3,
+    "30-39 years": 4,
+    "40-49 years": 5,
+    "50-59 years": 6,
+    "60+ years": 7,
 }
 
 MARITAL_STATUS_CATS = {
@@ -29,6 +31,11 @@ MARITAL_STATUS_CATS = {
     "Married": 2,
     "Divorced/Seperated": 3,
     "Widowed": 4,
+}
+
+SEX_CATS = {
+    "Female": 1,
+    "Male": 0
 }
 
 # id,visitdate,age,age_cat,sex,time_in_care,rna,cd4,retention,art_regimen,who_stage,facility,district,province,marital_status,died,official_transfer,covid_wave,vaccine
@@ -42,38 +49,37 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     # visit date
     visit_date = []
     day = []
-    week = []
     month = []
     year = []
-    for v in df["visitdate"].tolist():
+    for v in tqdm(df["visitdate"].tolist(), desc="visit_date"):
         v = str(v)
         if v == "nan":
             visit_date += [None]
             continue
-        v = datetime.strptime(v)
+        v = datetime.strptime(v, "%Y-%m-%d")
         day += [v.day]
-        week += [v.isocalendar()[1]]
         month += [v.month]
         year += [v.year]
+        if v.year > 2023:
+            print(v)
         delta_days = (v - STARTING_DATE).days
         visit_date += [delta_days]
     dp["visit_date"] = visit_date
     dp["day"] = day
-    dp["week"] = week
     dp["month"] = month
     dp["year"] = year
 
     # age and age cat
     age = []
     age_cat = []
-    for v in df["age"].tolist():
+    for v in tqdm(df["age"].tolist(), desc="age"):
         if str(v) == "nan":
             age += [None]
             continue
         age += [int(v)]
     dp["age"] = age
     age_cat = []
-    for v in df["age_cat"].tolist():
+    for v in tqdm(df["age_cat"].tolist(), desc="age_cat"):
         v = str(v)
         if str(v) == "nan":
             age_cat += [None]
@@ -81,24 +87,21 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
         if v not in AGE_CATS:
             raise ValueError(f"Unknown age category: {v}")
         age_cat += [AGE_CATS[v]]
+    dp["age_cat"] = age_cat
     # sex column
     sex = []
-    for v in df["sex"].tolist():
+    for v in tqdm(df["sex"].tolist(), desc="sex"):
         v = str(v)
-        if v == "nan":
+        if v == "nan" or v == "Unknown":
             sex += [None]
             continue
-        if v == "F":
-            sex += [1]
-            continue
-        if v == "M":
-            sex += [0]
-            continue
-        raise ValueError(f"Unknown sex category: {v}")
+        if v not in SEX_CATS:
+            raise ValueError(f"Unknown sex category: {v}")
+        sex += [SEX_CATS[v]]
     dp["sex_female"] = sex
     # marital status
     marital_status = []
-    for v in df["marital_status"].tolist():
+    for v in tqdm(df["marital_status"].tolist(), desc="marital_status"):
         v = str(v)
         if v == "nan":
             marital_status += [None]
@@ -110,7 +113,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     
     # time in care column
     time_in_care = []
-    for v in df["time_in_care"].tolist():
+    for v in tqdm(df["time_in_care"].tolist(), desc="time_in_care"):
         if str(v) == "nan":
             time_in_care += [None]
             continue
@@ -118,7 +121,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     dp["time_in_care"] = time_in_care
     # official transfer
     official_transfer = []
-    for v in df["official_transfer"].tolist():
+    for v in tqdm(df["official_transfer"].tolist(), desc="official_transfer"):
         if str(v) == "nan":
             official_transfer += [None]
             continue
@@ -127,7 +130,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     
     # who stage
     who_stage = []
-    for v in df["who_stage"].tolist():
+    for v in tqdm(df["who_stage"].tolist(), desc="who_stage"):
         if str(v) == "nan":
             who_stage += [None]
             continue
@@ -138,7 +141,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     dp["who_stage"] = who_stage
     # art regimen
     art_regimen = []
-    for v in df["art_regimen"].tolist():
+    for v in tqdm(df["art_regimen"].tolist(), desc="art_regimen"):
         v = str(v).replace(" ", "")
         if v == "nan":
             art_regimen += [None]
@@ -152,7 +155,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
 
     # facility
     facility = []
-    for v in df["facility"].tolist():
+    for v in tqdm(df["facility"].tolist(), desc="facility"):
         v = str(v).rstrip()
         if v == "nan":
             facility += [None]
@@ -163,7 +166,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     dp["facility"] = facility
     # district
     district = []
-    for v in df["district"].tolist():
+    for v in tqdm(df["district"].tolist(), desc="district"):
         v = str(v).rstrip()
         if v == "nan":
             district += [None]
@@ -174,7 +177,7 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     dp["district"] = district
     # province
     province = []
-    for v in df["province"].tolist():
+    for v in tqdm(df["province"].tolist(), desc="province"):
         v = str(v).rstrip()
         if v == "nan":
             province += [None]
@@ -185,10 +188,18 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
     dp["province"] = province
 
     # covid wave
-    dp["covid_wave"] = df["covid_wave"]
+    covid_wave = []
+    for v in tqdm(df["covid_wave"].tolist(), desc="covid_wave"):
+        v = str(v)
+        if v == "nan":
+            covid_wave += [None]
+            continue
+        covid_wave += [int(v)]
+    dp["covid_wave"] = covid_wave
     # vaccine
     vaccine = []
-    for v in visit_date:
+    for v in tqdm(df["vaccine"].tolist(), desc="vaccine"):
+        v = str(v)
         if v == "nan":
             vaccine += [None]
             continue
@@ -197,28 +208,29 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
 
     # rna
     rna = []
-    for v in df["rna"].tolist():
+    for v in tqdm(df["rna"].tolist(), desc="rna"):
         v = str(v)
         if v == "nan":
             rna += [None]
             continue
-        r = float(v)
-        if r < 60:
+        v = float(v)
+        if v < 60:
             rna += [1]
             continue
-        if r < 200:
+        if v < 200:
             rna += [2]
             continue
-        if r < 1000:
+        if v < 1000:
             rna += [3]
             continue
-        if r >= 1000:
+        if v >= 1000:
             rna += [4]
+            continue
         raise Exception(f"Unknown rna value: {v}")
     dp["rna"] = rna
     # cd4
     cd4 = []
-    for v in df["cd4"].tolist():
+    for v in tqdm(df["cd4"].tolist(), desc="cd4"):
         v = str(v)
         if v == "nan":
             cd4 += [None]
@@ -233,11 +245,14 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
         if v < 500:
             cd4 += [3]
             continue
-        cd4 += [4]
+        if v >= 500:
+            cd4 += [4]
+            continue
+        raise Exception(f"Unknown cd4 value: {v}")
     dp["cd4"] = cd4
     # suppressed
     viremic = []
-    for v in df["rna"].tolist():
+    for v in tqdm(df["rna"].tolist(), desc="viremic"):
         v = str(v)
         if v == "nan":
             viremic += [None]
@@ -248,15 +263,15 @@ def process_data(df, art_regimen_cats, facility_cats, district_cats, province_ca
         else:
             viremic += [1]
     dp["viremic"] = viremic
-    # death
-    death = []
-    for v in df["death"].tolist():
+    # died
+    died = []
+    for v in tqdm(df["died"].tolist(), desc="died"):
         v = str(v)
         if v == "nan":
-            death += [None]
+            died += [None]
             continue
-        death += [int(v)]
-    dp["death"] = death
+        died += [int(v)]
+    dp["died"] = died
     # retention
     retention = []
     for v in df["retention"].tolist():
@@ -275,7 +290,6 @@ def assign_datatypes(df):
     df["id"] = df["id"].astype(int)
     df["visit_date"] = df["visit_date"].astype(int)
     df["day"] = df["day"].astype(int)
-    df["week"] = df["week"].astype(int)
     df["month"] = df["month"].astype(int)
     df["year"] = df["year"].astype(int)
 
@@ -285,6 +299,7 @@ def assign_datatypes(df):
 
     df["time_in_care"] = df["time_in_care"].astype(int)
     df["official_transfer"] = df["official_transfer"].astype(int)
+    df["marital_status"] = df["marital_status"].astype(int)
 
     df["who_stage"] = df["who_stage"].astype(int)
     df["art_regimen"] = df["art_regimen"].astype(int)
@@ -299,7 +314,7 @@ def assign_datatypes(df):
     df["rna"] = df["rna"].astype(int)
     df["cd4"] = df["cd4"].astype(int)
     df["viremic"] = df["viremic"].astype(int)
-    df["death"] = df["death"].astype(int)
+    df["died"] = df["died"].astype(int)
     df["retention"] = df["retention"].astype(int)
 
     return df
@@ -322,9 +337,11 @@ art_regimen_cats = {}
 facility_cats = {}
 district_cats = {}
 province_cats = {}
-for i in tqdm(range(N_BLOCKS)):
+for i in range(N_BLOCKS):
+    print("Processing block {0}".format(i+1))
     block_n = i + 1
     file_name = os.path.join(raw_data_dir, f"block{block_n}{base_file_name}")
+    print("Reading file", file_name)
     df = pd.read_csv(file_name)
     dp, art_regimen_cats, facility_cats, district_cats, province_cats = process_data(df, art_regimen_cats=art_regimen_cats, facility_cats=facility_cats, district_cats=district_cats, province_cats=province_cats)
     dp = dp[dp["covid_wave"].notnull()]
@@ -334,9 +351,13 @@ for i in tqdm(range(N_BLOCKS)):
     else:
         da = pd.concat([da, dp], axis=0)
 
+print("Dataframe shape", da.shape)
+
 save_codebook(art_regimen_cats, "art_regimen")
 save_codebook(facility_cats, "facility")
 save_codebook(district_cats, "district")
 save_codebook(province_cats, "province")
+
+da = da.sort_values(by="visit_date", ascending=True)
 
 da.to_csv(os.path.join(processed_data_dir, f"01_covid_hiv_data.csv"), index=False)

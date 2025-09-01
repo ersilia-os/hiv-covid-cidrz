@@ -1,0 +1,1885 @@
+value,description
+1,Forest Park Hospital
+2,Ipusukilo Urban Health Center
+3,Kawama Urban Health Center
+4,Kalulushi GRZ Health Center
+5,Kalewa Barracks Urban Health
+6,Mukonchi Rural Health Center
+7,Thomson District Hospital
+8,Nchanga North General Hospital
+9,Ilondola Rural Health Center
+10,Chawama 1st Level Hospital
+11,Mwinilunga District Hospital
+12,Monze Urban Health Center
+13,Luangwa Urban Health Center
+14,Makululu Urban Health Center
+15,Muoyo Rural Health Center
+16,Katondo Urban Health Center
+17,Chelstone Urban Health Center
+18,Mtendere 1st Level Hospital
+19,Mpika Urban Health Centre
+20,St. Theresa Mission Hospital
+21,Wusakile Mine Hospital
+22,J Chamboli Clinic n/a Mopani
+23,Mazabuka General Hospital
+24,ZNS Airport Camp Health
+25,Mahatma Gandhi Urban Health
+26,Nadezwe Rural Health Center
+27,Site8110GF
+28,Shampande Urban Health
+29,Twatasha Urban Health Center
+30,Mwanjuni Health Post
+31,Zambezi Rural Health Center
+32,Kanyama 1st Level Hospital
+33,Kanyama West Urban Health Center
+34,Makeni Urban Health Center
+35,Ronald Ross General Hospital
+36,USAID DISCOVER Health Hub
+37,Chipata 1st Level Hospital
+38,Mkushi District Hospital
+39,Luyaba Rural Health Center
+40,Kazembe Rural Health Center
+41,Mushili Urban Health Center
+42,Ng'ombe Urban Health Center
+43,ZAF 71 Rural Health Center
+44,Buteko Urban Health Center
+45,Circle of Hope
+46,Prison Urban Health Center
+47,Katoba Rural Health Center
+48,Moomba Rural Health Center
+49,Prisons Urban Health Center
+50,Sons Of  Thunder Health Centre
+51,Pemba Main Rural Health
+52,Mokambo Rural Health Center
+53,Kaleya Urban Health Center
+54,Kaniki Urban Health Center
+55,Maramba Urban Health Center
+56,Chambishi GRZ Clinic
+57,Ndeke Urban Health Center
+58,Matero Main Urban Health
+59,Luena Camp Hospital
+60,Luwingu District Hospital
+61,Kachele Health Post
+62,Luanshya Mine Hospital
+63,Nkwazi Urban Health Center
+64,Mwembeshi Rural Health
+65,Mulenga Urban Health Center
+66,Liyoyelo (Mongu) Urban HC
+67,Mindolo 1 Urban Health Center
+68,Site8060AA
+69,Kalingalinga Urban Health
+70,Chilonga Mission Hospital
+71,Chreso Ministries
+72,Namseche Urban Health Center
+73,Sinozam Friendship Hospital
+74,Kasama Police Clinic
+75,Hakunkula Rural Health Center
+76,Mthunya Rural Health Center
+77,Serenje Urban Clinic
+78,Bauleni Urban Health Center
+79,Katondo Health Post
+80,Railway Urban Health Center
+81,Kabwe General Hospital
+82,Chiombo Rural Health Center
+83,Sote Health Post
+84,Chreso Ministries -Kabwe
+85,AIDS Health Care Foundation Chifundo
+86,Kamfinsa Urban Health Center
+87,Northern Command Military
+88,Sandwe Rural Health Center
+89,Dola Hill Urban Health Center
+90,Bushinga Rural Health Center
+91,Kalengwa South Health Post
+92,Sinazongwe Rural Health
+93,Buleya Malima Rural Health
+94,Chilenje 1st Level Hospital
+95,George Urban Health Center
+96,Chalubilo Rural Health Center
+97,Zambezi District Hospital
+98,University Teaching Hospital
+99,Mwase Lundazi Zonal Rural
+100,Mpatamato Section 26 Urban
+101,Mikomfwa Health Center
+102,Nsama Rural Health Center
+103,Bulungu (Mumbwa) Urban Health Center
+104,Kamoto Mission Hospital
+105,Kasimba Rural Health Center
+106,Chipata Central Hospital
+107,Malamba Health Post
+108,Lubende Rural Health Center
+109,ZNS Chamba Valley
+110,Mwandi Mission Hospital
+111,Chipungo Rural Health Center
+112,Maweleya Health Post
+113,Matero 1st Level Hospital
+114,Twaiteka Health Center
+115,Konkola 1 Urban Health Center
+116,Nangoma Mission Hospital
+117,Our Lady's Hospice
+118,Kamuchanga Urban Health Center
+119,Mtendere Mission Hospital
+120,Chongwe Referal Rural Health Center
+121,Malcom Moffat Rural Health
+122,Ngwerere Main Rural Health
+123,Kabwata Urban Health Center
+124,Sichobo Rural Health Center
+125,Kasama Urban Health Center
+126,St. Lukes Health Post
+127,Kalabwe Rural Health Center
+128,Bwacha Urban Health Center
+129,Kapata Urban Health Center
+130,Coptic Hospital
+131,Lewanika General Hospital
+132,Kamwala Urban Health Center
+133,Chreso Ministries Livingstone
+134,Masala New
+135,Chipili DHO
+136,Chipili Rural Health Center
+137,Zatulet
+138,Chimwemwe Urban Health
+139,Chawama Urban Health Center
+140,Lubwe Mission Hospital
+141,AIDS Health Care Foundation Lusungu
+142,KARA Counselling
+143,Main Urban Health Center
+144,Twikatane Health Post
+145,Kamwanya Health Post
+146,ZNS Kitwe Camp Clinic
+147,Victoria Hospital
+148,Mfulabunga Health Post
+149,Mwenda Rural Health Center
+150,Kaputa District Hospital
+151,Kasempa Urban Heath Center
+152,Chimba Rural Health Center
+153,Tazara Urban Health Centre
+154,Bwafwano Home Based Care
+155,Luamala Rural Health Center
+156,Minga Mission Hospital
+157,Kawambwa Tea Estate Rural
+158,Nchimishi Rural Health Center
+159,Army Rural Health Center
+160,Petauke Urban Health Center
+161,Kapiri Mposhi Urban Clinic
+162,Kazomba urban Health Center
+163,Chilanga Urban Health Centre
+164,Luwi Mission Hospital
+165,Miseshi Urban Health Center
+166,Namwala District Hospital
+167,Railway Surgery Urban Health
+168,Lundazi District Hospital
+169,Chikuni Mission Hospital
+170,Mwandi HAHC
+171,Kasompe Urban Health Center
+172,Mukobeko Township Urban
+173,Mporokoso HAHC
+174,Mishikishi Rural Health Center
+175,Ndola Teaching Hospital
+176,Nakoli Urban Health Center
+177,Kaloko Urban Health Center
+178,Mahopo Health Post
+179,Kris Katumba Health Post
+180,Nseluka Urban Health Center
+181,Bulangililo Urban Health Center
+182,Mkushi Coppermine Health Center
+183,Mambwe Mission Rural Health
+184,Chitimukulu Rural Health
+185,Chipangali Rural Health Center
+186,Champhande Rural Health
+187,Kambombo Rural Health Center
+188,Mbanyutu Rural Health Center
+189,Nakambala Urban Health
+190,Mtendere
+191,Kaunda Square Urban Health
+192,Sikanze Hospital
+193,Chipokota Mayamba Urban
+194,Chikoyi Peri Urban Clinic
+195,ZNS Luamfumu Rural Health
+196,Nang'oko Health post
+197,Hillview medical center parklands
+198,Petauke District Hospital
+199,Isofu Rural Health Center
+200,Mukobeko Medium Prison
+201,Batoka Rural Health Center
+202,Mwase Mphangwe Zonal Rural
+203,Sioma Rural Health Center
+204,Mwachisompola Rural Health
+205,Yeta HAHC
+206,Kanchele Rural Health Center
+207,Kaoma District Hospital
+208,Kasanka Rural Health Center
+209,Kamitondo Urban Health Center
+210,Nangongwe OPD Urban Health
+211,Liteta District Hospital
+212,Chikakala Health Post
+213,Masamba Rural Health Center
+214,Nawinda Rural Health Center
+215,Buchi Main Urban Health
+216,Solwezi General Hospital
+217,Chainda South Clinic
+218,Kawimbe Rural Health Center
+219,Matero Reference
+220,Chilwa Island
+221,Kantengwa Rural Health Center
+222,Mununshi Rural Health Center
+223,Solwezi Urban Health Center
+224,St. Francis Mission Hospital
+225,Vulamkoko Rural Health Center
+226,Mindolo 2 Mopani Clinic
+227,Natwange Mopani Clinic
+228,Commando Unit UHC Ndola
+229,Lungobe Rural Health Center
+230,Chibuluma Urban Health Center
+231,Mukinge Mission Hospital
+232,Kabompo District Hospital
+233,Kalene Mission Hospital
+234,Chipepo Rural Health Center
+235,Mabumba Rural Health Center
+236,St. Agnes Urban Health Center
+237,Taungn/aup Army Urban Health
+238,Sinda Zonal Rural Health
+239,Nyamphande Rural Health
+240,Lubosi Urban Clinic
+241,Chinunda Rural Health Center
+242,Kambale Rural Health Center
+243,Chibolya Urban HC
+244,Chitulika Health Post
+245,Kamwanu Rural Health Center
+246,Kabushi Urban Health Center
+247,Twapia Urban Health Center
+248,Kazimva Rural Health Center
+249,Tazara Rural Health Center
+250,Kaputa  Rural Health Center
+251,Zambia Compound Clinic
+252,Kabuta Rural Health Center
+253,Namwianga Zonal Mission Urban
+254,Lumwana District Hospital
+255,Site5010GC
+256,Mansa General Hospital
+257,Kamuchanga District Hospital
+258,Site3030GD
+259,Kazungula Health Post
+260,Senama Urban Health Center
+261,Mbanga Rural Health Center
+262,Chiwempala Urban Health
+263,Mchini Health Post
+264,St. Mary's Rural Health Center
+265,Kamulanga Health Post
+266,Katete Boma Health Center
+267,Kasama General Hospital
+268,Muyombe Rural Health Center
+269,Mwachisompola Demo Zone
+270,Itezhi-tezhi District Hospital
+271,Kabundi East Urban Health
+272,Ellensdale Health Post
+273,Kabwe Mine Hospital
+274,Chipata UHC/Chipata OPD
+275,Chipata District Hospital
+276,Western Regn Camp
+277,Mawaya Urban Health Center
+278,Kalulushi General Hospital
+279,Kakumbi Rural Health Center
+280,Wusakile GRZ Urban Health Center
+281,Sikongo Rural Health Center
+282,Kahare Rural Health Center
+283,Zimba Mission Hospital
+284,Chinjala Health Post
+285,Chiparamba Rural Health
+286,ZESCO Urban Health Center
+287,Mng'omba Rural Health Center
+288,Ndeke Village Hospital
+289,Nkeyema Rural Health Center
+290,NKonkola Rural Health Center
+291,Tugn/aArgan Urban Health Center
+292,Roan Antelope Referral Hospital
+293,Chitanda Rural Health Center
+294,Senanga General Hospital
+295,Chipembi Rural Health Center
+296,Mubuyu Health Post
+297,Monze Mission Hospital
+298,Chibolya Health Post
+299,Chazanga Urban Health Center
+300,Chibombo Rural Health Center
+301,Sichilima Health Post
+302,St. Josephs Mission Rural Health
+303,Mpulungu Urban Health Center
+304,Simulumbe Rural Health Center
+305,Mahatima Ghandi Health
+306,MOH HQ
+307,Zamtan Urban Health Center
+308,Mahatma Gandhi Clinic
+309,Kanakantapa Rural Health
+310,Matuku Health Post
+311,Chibale Rural Health Center
+312,Kabole Rural Health Center
+313,Kafue District Hospital
+314,Chikupi Rural Health Center
+315,GVDC Rural Health Center
+316,Mapanza Rural Health Center
+317,Chainda Rural Health Center
+318,Kafutuma Rural Health Center
+319,Konkola Mine Hospital
+320,Nalwashi Rural Health Center
+321,kasokota Health post
+322,Mumbwa District Hospital
+323,Kwacha Urban Health Center
+324,Nansenga Rural Health Center
+325,Chembe Health Post
+326,Mbaya Musuma Rural Health
+327,Kalabo District Hospital
+328,Mwembezhi Lutheran Rural Health Center
+329,Mulungshi University Clinic
+330,Manungu Urban Health Center
+331,Railway Surgery Urban HC
+332,Keembe Rural Health Center
+333,Site1040GC
+334,Nyimba District Hospital
+335,Mitwi HP
+336,Chamboli GRZ Urban Health
+337,Kagoro Rural Health Center
+338,Imusho Rural Health Center
+339,Mt. Makulu Urban Health
+340,Mbala General Hospital
+341,Malole Rural Health Center
+342,Mwantaya Health Post
+343,Chisekesi Rural Health Center
+344,Lubengele Urban Health Center
+345,Garden Health Post
+346,Mwense District Hospital
+347,Kalikiliki Health Post
+348,Makeni Villa Health Post
+349,Mwami Mission Hospital
+350,Chisakila
+351,Kayosha Rural Health Center
+352,Livingstone Central Hospital
+353,Clinic 3 Urban Health Center
+354,Mbereshi Mission Hospital
+355,Chalimbana Rural Health
+356,Zambian Helpers society hospital
+357,Lusitu Rural Health Center
+358,Ndaiwala Rural Health Center
+359,Namanongo Health Post
+360,Kaombwe Health Post
+361,Nambala Rural Health Center
+362,Kaloko Rural Health Center
+363,Levy Mwanawasa General
+364,Kawama Health Center
+365,Mumena Rural Health Center
+366,Kanyama Self Help
+367,Kalaba Rural Health Center
+368,Kitwe District Police Clinic
+369,Kalwala Health Post
+370,St. Pauls Mission Hospital
+371,ZNS Mpika Rural Health Centre
+372,Mumbi Rural Health Center
+373,Kalindawalo Rural Health
+374,Masala Main Urban Health
+375,Dambe Health Post
+376,Mulamba Urban Health Center
+377,Chikankata Mission Hospital
+378,Lubuto Urban Health Center
+379,Kanjiwa Rural Health Center
+380,Senga Rural Health Center
+381,Choma General Hospital
+382,Lubunda Rural Health Center
+383,Chisenjere Rural Health Center
+384,Paul Mambilima Rural Health
+385,Chama District Hospital
+386,Nalwei Rural Health Center
+387,ZNS-Sopelo Health Post
+388,Chabilikila Rural Health Center
+389,Nakonde District Hospital
+390,Namukolo Urban Health Centre
+391,Liliachi Rural Health Center
+392,Chijemu Health Post
+393,Old Mkushi Rural Health Center
+394,Chembe Rural Health Center
+395,Clinic 5 Urban Health Center
+396,Mukobeko Maximum Prison HC
+397,Kafulamase health post
+398,Luangwa Boma Rural Health Centre
+399,Ilute Health Post
+400,Kuku Health Post
+401,Nanga  Farms PLC
+402,Nanga Rural Health Centre
+403,Chivuna Rural Health Center
+404,Mufumbwe District Hospital
+405,Ngungu Urban Health Center
+406,Malaika Clinic
+407,Kasanda Urban Health Center
+408,Ikwichi Rural Health Center
+409,Musangu Rural Health Center
+410,Kamphambe Rural Health
+411,Kasaba / St. Margaret's Mission Hospital
+412,Nkumbi Rural Health Center
+413,Mawlaick ZCCF Kitwe Camp Clinic
+414,Nameembo Rural Health Center
+415,Riverside Urban Health Center
+416,Maheba B Rural Health Center
+417,Maheba A Rural Health Center
+418,Kitwe Teaching Hospital
+419,Kawambwa District Hospital
+420,Lukwipa Rural Health Center
+421,Magoye Rural Health Center
+422,Mkanda Rural Health Center
+423,Kabundi Rural Health Center
+424,East of garnaton health post
+425,Makeni UNHCR Health Post
+426,Tamanda Rural Health Center
+427,Mkopeka Rural Health Center
+428,Mulalika Health Post
+429,Mporokoso District Hospital
+430,Kasenga Rural Health Center
+431,Tusekelemo Community Medical Centre
+432,Lukulu Rural Health Centre
+433,Katondo Urban HC
+434,Site8050GC
+435,Isoka District Hospital
+436,Kapiri Mposhi District Hospital
+437,Itezhi-tezhi HAHC
+438,Imwiko Health Post
+439,Libuyu Urban Health Center
+440,Kasima Health Post
+441,Litambya Rural Health Center
+442,Mimpongo health post
+443,Ndeke UrbanHealth Center
+444,Nangweshi Rural Health Center
+445,Hanzala Rural Health Center
+446,Lewanika Urban Health Center
+447,Chaisa Health Centre
+448,Kansuswa Urban Health Center
+449,Munsakamba ZNS Camp Health Post
+450,Lunchida Health Post
+451,Nyimba Urban Health Centre
+452,Kaunga Mashi Rural Health
+453,Samfya Stage II Rural Health
+454,Chilanga Hospice
+455,Lundazi District HAHC
+456,Kaonga Urban Health Center
+457,Kakoso Urban Health Center
+458,Mpusu Health Post
+459,Limulunga Stage II Rural Health
+460,Location Urban Health Center
+461,Kafue Gorge Hospital
+462,Mbinga Health Post
+463,Basanga Rural Health Center
+464,Itufa Rural Health Center
+465,Nakonde Urban Health Centre
+466,ZNS Makeni Garrison Clinic
+467,Chainda Urban Health Center
+468,Lyabangu Health Post
+469,Mukulaikwa Rural Health Center
+470,Shimabala Health Post
+471,Mulambwa Urban Health Center
+472,Chibobo Rural Health Center
+473,Yeta District Hospital
+474,Site3020GE
+475,New Town Clinic
+476,Lubombo Rural Health Center
+477,Mweniwisi Rural Health Post
+478,Lumezi Mission Hospital
+479,Mpulungu District Hospital
+480,Kabanga Health Post
+481,Zambia Flying Doctor Service
+482,ZNS Kabwe
+483,Sinazeze Rural Health Center
+484,Chiyumbabenzu Health Post
+485,Chankomo Rural Health Center
+486,Site1030GD
+487,Likumbi Health Post
+488,Kawama Kitwe Urban Health Center
+489,Mpumba Rural Health Centre
+490,Chanida Boarder Health Post
+491,Site3070GG
+492,Kasongole Rural Health Center
+493,Nchanga Urban Health Center
+494,Mikata Rural Health Center
+495,Kanyanga Mission Health
+496,Sitwe Health post
+497,Chinyunyu Rural Health Center
+498,Shimungalu Health Post
+499,Moobola Rural Health Center
+500,Nsumbu Rural Health Center
+501,Minsenga Health Post
+502,Mt. Eugenia Rural Health
+503,St. Anthony Rural Health Center
+504,Lwanya Health Post
+505,Matumbo Rural Health Center
+506,Sichili Mission Hospital
+507,Kansenshi Prisons Urban Health
+508,Garnatone Urban Health Center
+509,Katunda Rural Health Center
+510,Masumba Rural Health Center
+511,Mazabuka Hospital HAHC
+512,Madzimoyo Rural Health Center
+513,Kanona Camp Hospital
+514,Katondwe Mission Hospital
+515,Kasinsa Rural Health Centre
+516,Allessandros Urban Health
+517,Mulongo Health Post
+518,Kaindu Rural Health Center
+519,Chisasa Rural Health Center
+520,Malcom Watson Hospital
+521,Muchinshi Rural Health Center
+522,Kalomo HAHC
+523,Chavuma Mission Hospital
+524,Zambia Compound Health Post
+525,Lubanda Rural Health Center
+526,Civic Center Urban Health
+527,Chiyabi Rural Health Center
+528,Lushiba Health Post
+529,Chiyeke Rural Health Center
+530,Jerusalem Rural Health Center
+531,Mwanamwalye Rural Health
+532,Manyane Rural Health Center
+533,Ngombe Health Post
+534,Chisanga Urban Health Center
+535,Chadiza District Hospital
+536,Kasiya Rural Health Center
+537,Palabana Rural Health Center
+538,Luano kapisha Clinic
+539,Masaiti Council Clinic
+540,Waya Rural Health Center
+541,Mchenjeza Rural Health Center
+542,Kanyenda Rural Health Center
+543,Estates Urban Rural Health
+544,State Lodge Urban Health
+545,Lukona Rural Health Center
+546,Fiwale Rural Health Center
+547,Chikumbi Health Post
+548,Luanshimba Rural Health
+549,Nega Nega Rural Health Center
+550,TVTC Urban Health Center
+551,Kantolomba Health Post
+552,Chozi Rural Health Center
+553,St. John`s Medical Centre
+554,Lusaka Trust Hospital
+555,Kaoma Urban Health Center
+556,Kisasa
+557,Mpunde Mission Rural Health
+558,Kimasala Urban Health Center
+559,Sinungu Rural Health Center
+560,Masansa Rural Health Center
+561,Nchanga 1 Urban Health Center
+562,Site9040GE
+563,Mushukula Rural Health Center
+564,Chiwala Health Post
+565,Hofmeyr Rural Health Center
+566,ZNS-LDB Health Post
+567,Chikando Rural Health Center
+568,Kankumba Rural Health Center
+569,Ongolwe health post
+570,Mawanda Rural Health Center
+571,Silowana Rural Health Center
+572,Kasoka Urban Health Center
+573,Namundale HP
+574,Nchelenge Rural Health Center
+575,Mulobezi Rural Health Center
+576,Lukashya Rural Health Center
+577,Kasumbalesa Urban Health Center
+578,Mweeke Health post
+579,Chaisa Urban Health Center
+580,Jiwundu Rural Health Center
+581,Sepo Urban Health Center
+582,Lusaka Adventist Clinic
+583,weigh bridge urban health centre
+584,Milenge East 7 Rural Health
+585,Mungwi Baptist Rural Health
+586,Monica Health Post
+587,Franco Urban Health Center
+588,St. Dorothy Rural Health Center
+589,Kohima Camp Urban Health
+590,Kalomo District Hospital
+591,Lulamba HP
+592,St. Clare Mission Clinic
+593,Nondo Rural Health Center
+594,Madzimawe Rural Health
+595,Matambazi Rural Health Center
+596,Chibende Health Post
+597,Jumbe Clinic
+598,Nyimba-ZNS
+599,Itapa Health Post
+600,Site8070GD
+601,Chipeso Rural Health Center
+602,Nsadzu Rural Health Center
+603,Litawa Rural Health Center
+604,Makunka Rural Health Center
+605,Namwala Hospital HAHC
+606,Mwanambao Health Post
+607,Maina Soko Military Hospital
+608,Sibongo Health Post
+609,Matonje Health Post
+610,Muchinka Rural Health Center
+611,Mary Berg Urban Health Center
+612,Lunchu B Rural Health Center
+613,Buntungwa Urban Health
+614,Mwanjawanthu Rural Health
+615,Kashikishi Hospital Health Affliated Health Centre
+616,Kapata E1 Rural Health Center
+617,Chowa Urban Health Center
+618,Munkanta Rural Health Center
+619,Sambula Rural Health Center
+620,Ndau Rural Health Center
+621,Mbila Rural Health Center
+622,Nsombo Rural Health Center
+623,Sinjembela Rural Health Center
+624,Mwekera Urban Health Center
+625,Nyanje Mission Hospital
+626,Site1040GD
+627,Nchanga South Mine Hospital
+628,Luansobe Rural Health Center
+629,Mayoba Rural Health Center
+630,ZNS Chishimba (Kasama) Rural Health
+631,Musumani
+632,Mpepo Rural Health Centre
+633,Nalikwanda Stage II Rural
+634,Mulundu Health Post
+635,Chikwa Medics
+636,Buleya Health Post
+637,Kadama Health Post
+638,Chilubula Health Center (St.Fedelis)
+639,Nampundwe Rural Health Center
+640,Makeni GRZ Health Centre
+641,Chitokoloki Mission Hospital
+642,Mambolomoka Rural Health
+643,Police Urban Health Center
+644,Peleti Rural Health Center
+645,Mungule Rural Health Center
+646,ZCA Rural Health Centre
+647,Kamwala Health Post
+648,Murundu Rural Health Center
+649,Pollen Urban Health Center
+650,Njase Rural Health Center
+651,Ipafu Rural Health Center
+652,Chisankane Rural Health Center
+653,Kauwe Rural Health Center
+654,Mapunga Rural Health Center
+655,ZA Appollo Rural Health
+656,Lukweta Health Post
+657,Liangati Health Post
+658,Kashiba Rural Health Center
+659,Dongwe Rural Health Center
+660,Lukwesa Rural Health Center
+661,Milima Rural Health Center
+662,Nakatindi Health Centre
+663,Masaiti District Hospital
+664,Kawambwa HAHC/Kawambwa Central RHC
+665,Yuka Mission Hospital
+666,Kayambi Rural Health Center
+667,University of Zambia  Clinic
+668,Mutomena Rural Health Center
+669,Kafironda Health Post
+670,Kampinda Rural Health Center
+671,Habulile Rural Health Center
+672,Katima Mulilo Rural Health
+673,Kwenje Rural Health Center
+674,Mwewe Rural Health Center
+675,Nampundwe Mine Health Center
+676,Kasenga Health Post
+677,Chisamba Rural Health Center
+678,Mindola Rural Health Center
+679,Mukuni Rural Health Center
+680,Mambilima Rural Health center
+681,Mwabu Rural Health Center
+682,Shifwankula Health Post
+683,Mwenzo Rural Health Center
+684,Kasakalawe Health Post
+685,Chiunda Ponde Rural Health Centre
+686,Walela Health Post
+687,Makasa Rural Health Center
+688,Chondwe Rural Post
+689,Kama Rural Health Center
+690,Siamuleya Health Post
+691,Chibote Health Post
+692,Mwimba Health Post
+693,Chinsali District Hospital
+694,Sachibondu Rural Health Center
+695,Mafuta Rural Health Center
+696,Katimba Rural Health Center
+697,Kalobolelwa Rural Health
+698,ZASTI Rural Health Centre
+699,Mukunta Rural Health Center
+700,Kateshi Rural Health Center
+701,Shimukuni Rural Health Center
+702,Rosa Rural Health Center
+703,Kaunga Health Post
+704,Mangango Mission Hospital
+705,Lambwe Chomba Rural Health
+706,Kabweza Health post
+707,Nchanga 3 Urban Health Center
+708,Gondar Camp Barracks 4ZR
+709,Mukolwe Rural Health Center
+710,Chilumba Rural Health Center
+711,Butondo Urban Health Center
+712,Muzeyi Rural Health Center
+713,Chishinka Rural Health Center
+714,Kaluwe Rural Health Center
+715,Sinyawagora Rural Health Centre
+716,Sefula Rural Health Center
+717,Kalweo Rural Health Center
+718,Namaloba Rural Health Post
+719,Chasera Health Post
+720,Chitemalesa Health Post
+721,Mulobezi District Hospital
+722,Kafue Mission Urban Health
+723,Mnoro Rural Health Center
+724,Bweengwa Rural Health Center
+725,Kasenga Rural Health Centre
+726,Mulenga Hills Health Post
+727,Fisenge Urban Health Center
+728,Mansa Central Urban Clinic
+729,Luvuzi Rural Health Center
+730,Chavuma Clinic (UHC)
+731,Momboshi Health Post
+732,Chilenga Health Post
+733,Simakumba Rural Health
+734,Kampelembe Rural Health
+735,Kapungwe Health Post
+736,Mulilima Rural Health Center
+737,Litoya Rural Health Center
+738,Mbala Urban Health Center
+739,Sitoti Rural Health Center
+740,Chitambo District Hospital
+741,Chibefwe Rural Health Center
+742,Liteta HAHC
+743,Chipapa Rural Health Center
+744,Nyangwena Rural Health Center
+745,Keemba Rural Health Center
+746,Simwatachela Rural Health
+747,Shikamushile Rural Health
+748,Mtandaza Rural Health Center
+749,Kalungu Rural Health Center
+750,Musa Rural Health Center
+751,Kapwepwe Health Post
+752,Lulamba Urban Health Center
+753,Mumba Rural Health Center
+754,Chipete Rural Health Center
+755,System
+756,ZAF Logistics Command
+757,Chimembe Rural Health Center
+758,Eastern Regn Camp
+759,Siavonga HAHC
+760,Chindwin Camp Urban Health
+761,Jon Hospice
+762,Mpongwe Mission Hospital
+763,Mbande Health Post
+764,Kopeka Rural Health Center
+765,Kapila Health Post
+766,Kashikishi Rural Health Center
+767,kakolo RHC
+768,Suu Health Post
+769,Mbita Health Post
+770,Mwita Health Post
+771,Mpanshya (St. Luke) Mission Hospital
+772,Senanga Urban Health Centre
+773,Kasosolo Health Post
+774,Lukulu District Hosptial
+775,Namwandwe Health Post
+776,Sankandi Health Post
+777,Mayukwayukwa 2 Rural Health
+778,Chikoma Rural Health Center
+779,Lupiya Health Post
+780,Mukukutu Health Post
+781,Lwimba Rural Health Center
+782,Linda Urban Health Center
+783,Musaila  Rural Health Center
+784,Kaka Rural Health Center
+785,Chinsali HAHC/Location Urban Health Center
+786,Mapamba Rural Health Center
+787,Twalumba Rural Health Center
+788,Kakula Health Post
+789,Munyukwa Rural Health Center
+790,Maamba General Hospital
+791,Mutaba Urban Center
+792,Waterfalls Rural Health Center
+793,Chisenga Island Rural Health
+794,Katozi Health Post
+795,Mnduwi
+796,Musele Rural Health Center
+797,Michael Chilufya Sata Hospital
+798,Mukungule Rural Health Centre
+799,Mulamba Health Post
+800,Lilayi Urban Health Center
+801,Mukwela Rural Health Center
+802,Dimbwe Rural Health Center
+803,St Joseph's Hospice
+804,Mulimambango Health Center
+805,Mbabala Rural Health Center
+806,Chimunsi Rural Health Center
+807,Kawama West Health Post
+808,Site3080GC
+809,Kalenda ZNS Rural Health
+810,Kapete Health Post
+811,Sinamalima Rural Health
+812,Mukuyu Rural Health Center
+813,George Chimwemwe 2
+814,ZAF Livingstone Urban Health
+815,Nyakulenga Rural Health Center
+816,Mandevu Urban Health Center
+817,Tuuwa Rural Health Center
+818,Masuku Mines Terminal Rural
+819,Ntantumbila Rural Health
+820,Kamilambo RHC
+821,Chanyanya Rural Health Center
+822,Mungu
+823,Maala Rural Health Center
+824,Neongelo Health Post
+825,Chikwa Rural Health Center
+826,Nyengo Rural Health Center
+827,Nakamboma Rural Health
+828,Mulwe Health Post
+829,Mwanambuyu Rural Health
+830,Kalingindi Health Post
+831,Malombe
+832,Chipungu Rural Health Center
+833,Kalovya Health Post
+834,Kambwali Rural Health Center
+835,Libonda Rural Health Center
+836,Shikoswe Medical Services
+837,Kundamfumu Rural Health
+838,Lealui Rural Health Center
+839,Chabota Health Post
+840,Mushingashi Rural HC
+841,Mwanika Rural Health Center
+842,Chomba Health Post
+843,Macha Mission Hospital
+844,Mutenda Rural Health Center
+845,Site3030GC
+846,Kimiteto Rural Health Center
+847,Chibale Health Post
+848,Silolo Rural Health Post
+849,Chikanzaya Rural Health Center
+850,Kasomabangweulu HP
+851,Kapopo Health Post
+852,Baluba
+853,Marshlands medical center
+854,Mukusi Sawmills Rural Health
+855,Lusu Rural Health Center
+856,Jembo Rural Health Center
+857,Kampumba Rural Health Center
+858,Mankhaka Health Post
+859,Mankhungwe Health Post
+860,Natuseko Urban Health Center
+861,Mwalumina Rural Health Center
+862,Sihole Rural Health Center
+863,Kabuyu Rural Health Center
+864,Naluvwi Health Post
+865,Site6020GC
+866,Salanga Rural Health Center
+867,Kafinda Health Post
+868,Ndoba Rural Health Center
+869,Lunkhwakwa Urban Health
+870,Fumbelo Health Post
+871,North Star alliance wellness centre
+872,Freedom UHC
+873,Lukupa Rural Health Center
+874,Kafunkha Health Post
+875,Iyendwe Rural Health Center
+876,ZAF Headquarters
+877,Mng'ona Health post
+878,Namatama Clinic
+879,konkola Health Post
+880,Katandala Rural Health Center
+881,Santa Maria Rural Health
+882,Chunga Health Post
+883,Chibwe Rural Health Center
+884,msokosela Health Post
+885,Nachitete
+886,Chileshya Rural Health Center
+887,Chikomeni Rural Health Center
+888,Nansenga Health Center
+889,Mambova Rural Health Center
+890,Mikango Camp Rural Health Center
+891,Nampeyo Rural Health Center
+892,Chipembe Rural Health Center
+893,Nanzhila Rural Health Center
+894,Phikamalaza Rural Health
+895,Ikelenge Rural Health Center
+896,Kakwiya Rural Health Center
+897,Mataba Health Post
+898,Munsanya Health Post
+899,Mitete Rural Health Center
+900,Isoko Rural Health Center
+901,Kapululira Rural Health Center
+902,ZNS Kafue Urban Health Center
+903,Loloma Mission Hospital
+904,Namushakende Rural Health
+905,Masuku Mission Rural Health
+906,Chifukuzi Health Post
+907,St. Francis Rural Heath Center
+908,Feira Day Health Post
+909,Zangamenu Rural health centre
+910,Chitongo Rural Health Center
+911,Muwang'uni Rural Health
+912,Mosi-oa-Tunya Health Center
+913,Ngwerere Health Post
+914,Chisamba ZNS Rural Health Centre
+915,Tinna Medical Centre
+916,Itawa Health Center
+917,Chiwena Rural Health Center
+918,Namilangi Rural Health Center
+919,ZNS Chongwe Clinic
+920,Kabamba Rural Health Center
+921,Luoke West Rural Health Center
+922,Siatwinda Rural Health Center
+923,Chinambi Rural Health Center
+924,Chishela Rural Health Center
+925,Progress Medical Centern/a Parklands
+926,Nangula Rural Health Center
+927,Mazaba Health Post
+928,Kamisenga Rural Health Centre
+929,Watopa Rural Health Center
+930,Kabulamwanda Rural Health
+931,Situlu Health Post
+932,ZAF Mbala (samora) Urban
+933,Kakulu Rural Health Center
+934,Mukubwe
+935,Chibombo DHO
+936,Lukashi/Selu Health Post
+937,Kaparu Rural Health Center
+938,Ngundi Health Post
+939,Nyawa Rural Health Center
+940,Maamba HAHC
+941,Chikankanta HAHC
+942,St. Kalemba Rural Health
+943,Madziatuwa Rural Health
+944,Bombwe Health Post
+945,Kaanja Rural Health Center
+946,Lyobeka Health Post
+947,Misaka Health Post
+948,Merwe Rural Health Center
+949,Mushitala Urban Health Center
+950,Nyakatokozi Health Post
+951,Lumwana East Rural Health
+952,Mukumbo Rural Health Center
+953,Chizenje Rural Health Center
+954,Keyana Rural Health Center
+955,Kasamanda Rural Health
+956,Site8090GG
+957,Maela Health Post
+958,Kafubu Block Urban Health
+959,Solwezi TT College Urban
+960,St. Luke /Msoro Rural Health
+961,Kamvumbe Health Post
+962,Nthokonkho
+963,Mukwikile Health Post
+964,Mulanga Rural Health Center
+965,Ngoli Rural Health Center
+966,Nkhanyu Health Post
+967,Matua Rural Health Center
+968,Kaseshya Health Post
+969,Chikobo Rural Health Center
+970,John Howard Health Post
+971,Golden Valley Rural Health
+972,Munkonge Rural Health Center
+973,Sikaneka Rural Health Center
+974,Mabo Kunda Rural Health
+975,Satelite 18 Rural Health Center
+976,Nkolemfumu Rural Health
+977,Kabalenge Rural Health Center
+978,Mshawa Rural Health Center
+979,Kabangalala Rural Health
+980,Mutondo Rural Health Center
+981,Peter Singogo Police Urban
+982,Matonga Health Post
+983,Fiyongoli Health Post
+984,Kopa Rural Health Centre
+985,Nsefu Rural Health Center
+986,Mushota Rural Health Center
+987,Lui Namabunga Health Post
+988,College/Namulundu Health Post
+989,Rukuzye Rural Health Center
+990,Kaande Health Post
+991,Namakombwe Health Post
+992,Kapolyo Rural Health Center
+993,Clinic 1 Urban Health Center
+994,Nakowa Rural Health Center
+995,SOS Kitwe Health Center
+996,Kabanana Health Post
+997,Munyeta Health Post
+998,Kamakuti Health Post
+999,Site1030GG
+1000,Mwelebi Keembe Ranch Health Post
+1001,Chiawa Rural Health Center
+1002,Kabunda Rural Health Center
+1003,Nanduba Health Post
+1004,Nyambi 1 Rural Health Center
+1005,Ushaa Rural Health Center
+1006,Chataika Rural Health Center
+1007,Chitwa Rural Health Centre
+1008,Kafumbwe Rural Health Center
+1009,Ndanda Rural Health Center
+1010,Lwahumba Health Post
+1011,Arakan Camp Hospital
+1012,Kambwili Rural Health Centre
+1013,ZAF Mumbwa Rural Health Center
+1014,Lufubu Rural Health Center
+1015,Fwaka East 8 Rural Health
+1016,Chiliabale
+1017,Kacholola Rural Health Center
+1018,Buchi Small Chest Urban Health
+1019,Naluyanda Rural Health Center
+1020,Masese Rural Health Center
+1021,Chiengi DHO
+1022,Site3070GE
+1023,Sipuma Rural Health Center
+1024,CHISWA Health Post
+1025,Mundubi Rural Health Center
+1026,Kamaila Health Post
+1027,CBU Urban Health Center
+1028,Namayani Health Post
+1029,Lukomba Health Center
+1030,Trident Clinic
+1031,Kapyanga Rural Health Center
+1032,Arthur Davison Hospital
+1033,Chitawe Rural Health Center
+1034,Mukasichimbwe Health Post
+1035,Munyumabisi Health Post
+1036,Sande Health Post
+1037,Siavonga District Hospital
+1038,Kamilende Rural Health Center
+1039,Puta Rural Health Center
+1040,Kasenengwa Rural Health
+1041,ZAF Base Rural Health Center
+1042,Misisi Health Post
+1043,Ichimpe rural Health Center
+1044,Mande Health Post
+1045,Kitwe College of education Health post
+1046,Mikunku Health Post
+1047,Ndondi Health Post
+1048,Fimpulu Rural Health Center
+1049,Tuyu Health Post
+1050,Miswema Health Post
+1051,Njomona Zambia Sugar Hospital
+1052,Lubwa Rural Health Center
+1053,Sansamwanje Health Post
+1054,Ukwimi B Rural Health Center
+1055,Salondo Health Post
+1056,Siachitema ZonalHealth Center
+1057,Fibale Health Post
+1058,Luongo Health Post
+1059,Luandui Rural Health Center
+1060,Kamanga Health Post
+1061,Lukalanya Rural Health Center
+1062,Lui Wanyau Health Post
+1063,Lwazamba Health Post
+1064,Nameto Rural Health Center
+1065,Lumpampa Rural Health Center
+1066,Boma Urban Health Center
+1067,Site9040GF
+1068,Samfya District Hospital
+1069,Kabwe RHC Chiengi
+1070,Ibbwemunyama Rural Health
+1071,Katema Rural Health Center
+1072,Chanida Rural Health Center
+1073,Moobe Health Post
+1074,Miulwe Health Post
+1075,Chaanga Rural Health Center
+1076,Lishuwa Rural Health Center
+1077,Kalulushi Main Urban Health Center
+1078,Mulauli Health Post
+1079,Ukwimi A Rural Health Center
+1080,Sikunduko RHC
+1081,Miti Rural Health Center
+1082,Nyaala Health Post
+1083,Kite Rural Health Center
+1084,Kansenga Rural Health Center
+1085,Mishulundu HP
+1086,Moyo Rural Health Center
+1087,Mwaiseni Urban Health Center
+1088,Sathya Sai Urban Health
+1089,Mulungushi Rural Health Center
+1090,Nangili Health Post
+1091,Mulele Health Post
+1092,Naluja Rural Health Center
+1093,Chitakata B Health Post
+1094,Kapalala Rural Health Center
+1095,Kabwe Medical Center
+1096,DALICE Clinic
+1097,Kawama Health Post
+1098,Kamphamule Health Post
+1099,Muunga Rural Health Center
+1100,Chibansa Urban Health Centre
+1101,Baambwe Rural Health Center
+1102,Boyole Health Post
+1103,Nteme Health Post
+1104,Simonga Rural Health Centre
+1105,Site8110GC
+1106,Musopelo Health Post
+1107,Bbilili Rural Health Center
+1108,Rufunsa Rural Health Center
+1109,Mwense Stage II Rural Health
+1110,Feni Health Post
+1111,Chalata Rural Health Center
+1112,Mulumbi Rural Health Center
+1113,Nampamba Rural Health Center
+1114,Siameja Rural Health Center
+1115,Nomai Health Post
+1116,Chilolwa Rural Health Center
+1117,Fitobaula Health Post
+1118,Mano Rural Health Center
+1119,Muzoka Rural Health Center
+1120,Mpomwa Rural Health Center
+1121,Site5040JH
+1122,Ngwezi Rural Health Center
+1123,Tungati Rural Health Center
+1124,Chamakubi Health Post
+1125,Prisons Clinic
+1126,Muzabula Health Post
+1127,Hillcrest Health Post
+1128,Tazara Residential Health Centre
+1129,ZAF Kabwe Urban Health
+1130,Myooye Rural Health Center
+1131,Luembe Rural Health Center
+1132,Mutipula Rural Health Center
+1133,Livingstone Center of Excellence
+1134,Kampekete Rural Health Center
+1135,Chimtende Rural Health Center
+1136,Lui River Rural Health Center
+1137,Kasisi Rural Health Center
+1138,Kalembwe Rural Health Center
+1139,Kaaba Rural Health Center
+1140,Gwembe District Hospital
+1141,Munyeu Health Post
+1142,Site3070GC
+1143,Masele Urban Health Center
+1144,Chambishi Mine Health Center
+1145,Khuli-Khuli CHP
+1146,Kamulaza Rural Health Center
+1147,Chadiza rural Health Center
+1148,Mikomfwa Urban Clinic
+1149,Mabombo Health Post
+1150,Mapungu Health Post
+1151,Lubosi Health Post
+1152,Situnga Health Post
+1153,Itebe Rural Health Center
+1154,Siluwe Health Post
+1155,Sinalo Health Post
+1156,Kaumba Health Post
+1157,Mitukutuku Rural Health Center
+1158,Makungwa Health Post
+1159,Sindemisale Rural Health
+1160,Chisanza Rural Health Center
+1161,Lukena Rural Health Center
+1162,Mapungu Rural Health Center
+1163,Likawe Health Post
+1164,Chikani Health Post
+1165,Site9060GC
+1166,Kaseba Health Post
+1167,Site3080GG
+1168,Namengo Health Post
+1169,Kawaya Health Post
+1170,Mushili Rural Health Center
+1171,Terranova
+1172,Mutiti Rural Health Center
+1173,Nkabika Clinic-Nakambala Sugar Estate
+1174,Luchembe Health Post
+1175,Nabutezi Rural Health Centre
+1176,Namayula Health Post
+1177,Manota Health Post
+1178,Mabumbu Rural Health Center
+1179,Prison Health Post
+1180,Umi Health Post
+1181,Tapo Rural Health Center
+1182,Chilala Zonal Rural Health Center
+1183,Magwero Rural Health Center
+1184,Lukola Rural Health Center
+1185,Shang'ombo District Hospital
+1186,Mtumbata Health Post
+1187,Chikombola Rural Health
+1188,Liumena Rural Health Centre
+1189,Nasilimwe Rural Health Center
+1190,Kanyembo Rural Health Center
+1191,Kasabi Rural Health Center
+1192,Longe Health Post
+1193,Mangunza Rural Health Center
+1194,Maloba Health post
+1195,Hoya Health Post
+1196,Mwase-Mphangwe Schemes
+1197,Chafulu Health Post
+1198,Site6130GC
+1199,Sejamba Rural Health Center
+1200,Sejamba Health Post
+1201,Wenela Health Centre
+1202,Yuka Mission Hospital HAHC
+1203,Chindeza Rural Health Center
+1204,Mukamba Rural Health Center
+1205,Musonda Falls Rural Health
+1206,Mufulira Prisons Urban Health
+1207,Zesco Musonda Falls Clinic
+1208,Iloke Rural Health Center
+1209,Njola-Mwanza Rural Health
+1210,Mukupa Kaoma Rural Health
+1211,Nyenje Health Post
+1212,Luangwa District Hospital
+1213,Kalulushi Township Urban
+1214,Nanyati Rural Health Center
+1215,Mwandafisi Health Post
+1216,Tengama Health Post
+1217,Chiengi District Hospital
+1218,Siansowa Rural Health Center
+1219,Liumba Rural Health Center
+1220,Chitoshi Rural Health Center
+1221,Luampa Mission Hospital HAHC
+1222,Mpande Rural Health Center
+1223,Kaonda Rural Health Centre
+1224,Macha Mission Hospital HAHC
+1225,Kasheke Health Post
+1226,Carewell Medical Centre
+1227,Mutamino Health Post
+1228,Shang'ombo Rural Health
+1229,Chanyalubwe Health Post
+1230,Lukonde Rural Health Center
+1231,Sichili HAHC Rural Health
+1232,Namatindi Rural Health Center
+1233,Mkumbuzi Rural Health Center
+1234,Luubwe Health Post
+1235,Mutwa Health Post
+1236,Shabasonje Rural Health Center
+1237,Chisomo Hospital (Stump Mission)
+1238,Shimukunami Rural Health
+1239,Kasamba Rural Health Center
+1240,Rutech Health Post
+1241,Sikumbi Rural Health Center
+1242,Nalutanda Health Post
+1243,Nanjucha Rural Health Center
+1244,Mumbachala
+1245,Musenga Health Post
+1246,Ng'onga Rural Health Center
+1247,Katuba Health Post
+1248,ZNS Luanshimba Camp
+1249,Nyembe Rural Health Center
+1250,Mwamba Rural Health Center
+1251,Likapai Health Post
+1252,Kuuli Rural Health Center
+1253,Liyoyelo Urban HC  (Kalabo)
+1254,Telnor Clinic
+1255,Simaa Health Post
+1256,Magumwi Health Post
+1257,Chinsanka Health Centre
+1258,Chikowa Rural Health Center
+1259,Muweswa Health Post
+1260,Mpima Correctional Urban Health
+1261,Mbangweta Health Post
+1262,Maimwene Health Post
+1263,Bwanunkha Rural Health Center
+1264,Beatrice Memorial Medical Centre
+1265,Muchila Rural Health Center
+1266,Katoya Rural Health Post
+1267,Mugoto Rural Health Center
+1268,Dwankhonzi Health Post
+1269,Siwelewele Health Post
+1270,Nsongwe Health Post
+1271,Kamoto HAHC
+1272,Brunelli Health Post
+1273,Mwandasengo Health Post
+1274,Vizenge Rural Health Center
+1275,Chitina Health Post
+1276,Matanda Rural Health Center
+1277,Old Kabweza
+1278,Lunzi Rural Health Center
+1279,Kabanze Rural Health Post
+1280,Chilese Rural Health Center
+1281,Army School of Ordinance
+1282,Boma Rural Health Center
+1283,Simaubi Rural Health Center
+1284,Lukau Health Post
+1285,Chishamwamba Rural Health
+1286,Manyonyo Health Post
+1287,Kandende Rural Health Center
+1288,Site5010GF
+1289,Masaiti Boma Clinic
+1290,Konkola 4 Urban Health Center
+1291,Lukolongo  Health Post
+1292,Chainama Hills Hospital
+1293,Chainama HAHC
+1294,Mutende Health Post
+1295,Chawama Rural Health Center
+1296,Fungulwe Rural Health Center
+1297,Kashitu Rural Health Center
+1298,Ndake Rural Health Post
+1299,Chisengu Health Post
+1300,Kazungula District Hospital
+1301,Shibwalya Kapila Rural Health
+1302,Itumbwe Health Post
+1303,Site3050GD
+1304,Luangwa Bridge Health Post
+1305,Shiwa Ng'andu Rural Health
+1306,Mphangwe Rural Health Center
+1307,Chikumbi ZNS Health Post
+1308,Luamphaande Rural Health
+1309,Nthitimila Health Post
+1310,Mboshya Rural Health Center
+1311,Kanwanjiba Health Post
+1312,Bundabunda Health Post
+1313,Chisamba Ranch Health Post
+1314,Manyi Health Post
+1315,St. Pauls Rural Health Center
+1316,Kapichila Rural Health Center
+1317,Chalabesa Rural Health Centre
+1318,Mbenjere Health Post
+1319,Mpelembe Rural Health Center
+1320,Silumbu Rural Health Center
+1321,Mufwaya Rural Health Center
+1322,Zumbe Rural Health Center
+1323,Kanemela Health Post
+1324,Kascol Urban Health Center
+1325,Mlawe Health Post
+1326,Lutwi Health Post
+1327,Toka Toka Health Post
+1328,Mwenyi Health Post
+1329,Waitwika Rural Health Center
+1330,Lui Rural Health Center
+1331,Liwandamo Health Post
+1332,Mzuza Health Post
+1333,Kaselo health Post
+1334,Human Service Trust Hospice
+1335,Kanuma Rural Health Center
+1336,Mubanga Rural Health Center
+1337,Lufwanyama District Hospital
+1338,Nkosha Health Post
+1339,Kasikili Health Post
+1340,Mutanda (Mission) Rural Health
+1341,Katanshya Rural Health Center
+1342,Mujimanjovu Rural Health
+1343,Mkomba Health Post
+1344,Kapatu Rural Health Center
+1345,Mulilansolo Rural Health Center
+1346,Zumwanda RHC
+1347,Nangoma Mission  HAHC
+1348,Tafelansoni Rural Health Center
+1349,Nalulebwe Rural Health Post
+1350,Msekera Rural Health Center
+1351,Namitome Rural Health Center
+1352,Misamfu Rural Health Center
+1353,Tembwe Rural Health Center
+1354,Kapililonga Health Post
+1355,Chisembe Post
+1356,Misengo Rural Health Center
+1357,Kakanda Health Post
+1358,LombeLombe Health post
+1359,Katuta Rural Health Center
+1360,Mtilizi Health Post
+1361,Munyumbwe Rural Health
+1362,Kakumba Health Post
+1363,Kabilamwandi Rural Health
+1364,Serenje District Hospital
+1365,Kabwanga Rural Health Center
+1366,Kamakanga H Post
+1367,Nalolo Rural Health Center
+1368,Sikushi Health Post
+1369,Nsokolo Rural Health Center
+1370,Site3050GC
+1371,Northern Settlement Rural Health Center
+1372,Njelemani Rural Health Center
+1373,Chilongoshi Rural Health Center
+1374,Lualizi Health Post
+1375,Kabongo Health Post
+1376,Site8020GC
+1377,Nakayembe Rural Health Center
+1378,Lushishi Health Post
+1379,Site3030GF
+1380,Kapara Rural Health Center
+1381,Namoomba RHC
+1382,Shiyala Health Post
+1383,Chakoloma Health Post
+1384,Ichila Rural Health Center
+1385,Chilubi DHO
+1386,Lufila Rural Health Centre
+1387,Chingola Council Urban Health
+1388,Kakulunda Rural Health Center
+1389,Ngabo Health Post
+1390,Mochipapa Rural Health Center
+1391,Looma Health Post
+1392,Chikoka Health Post
+1393,ZCA (Monze) Rural Health
+1394,Hachipilika
+1395,Luatembo Health Post
+1396,Mulwa Health Post
+1397,Chilalantambo Health Post
+1398,Site9060GE
+1399,Chifusa Rural Health Center
+1400,Chiwuyu Health Center
+1401,Mantumbusa Rural Health
+1402,Nakeempa Rural Health Center
+1403,Malambanyama Rural Health
+1404,Nambuluma Police Clinic
+1405,Kanyensha Health Post
+1406,Malandula Rural Health Center
+1407,ZNS Mbala (Munyezi) Camp
+1408,Mkonda Health Post
+1409,Site7060GG
+1410,Msanzala Rural Health Center
+1411,Chitungulu Rural Health Center
+1412,Lumezi HAHC
+1413,Chiwoko Rural Health Center
+1414,Sianyolo Rural Health Center
+1415,Kanchomba Rural Health Center
+1416,ZNS Choma Rural Health
+1417,Kabanda Rural Health Center
+1418,Salunda Health Post
+1419,Malata Health Post
+1420,Gwembe HAHC
+1421,Kaizya Health Post
+1422,N'uma Health Post
+1423,Naluama Rural Health Center
+1424,Luampa Mission Hospital
+1425,Sikalongo Rural Health Center
+1426,Mucheleka Health Post
+1427,Lubushi Hospital
+1428,Chilanga Health Post
+1429,Chisonso Health Post
+1430,Chifunda Rural Health Center
+1431,Matoya Rural Health Center
+1432,Popota Rural Health Center
+1433,Nkana Rural Health Center
+1434,Buli Rural Health Center
+1435,Mwanawina Rural Health
+1436,Katangwe Rural Health Center
+1437,Sitaka Health Centre
+1438,Sikaunzwe Rural Health Center
+1439,Cardinal Adam Memorial Hospital (USAID Discover)
+1440,Dambwa North Urban Health
+1441,Riverside Farm Rural Health
+1442,Kapole Rural Health Post
+1443,Kamiza Rural Health Center
+1444,Luili Rural Health Center
+1445,Kasompa Health Post
+1446,Madzaela Health Post
+1447,Mbanda Rural Health Center
+1448,Lulambo Health Post
+1449,Pemba Sub RuralHealth Post
+1450,Research Station Urban Health
+1451,Mpanshya HAHC
+1452,Munjile Rural Health Center
+1453,Holy Family Rural Health Center
+1454,Muyembe Rural Health Center
+1455,Hilltop Hospital
+1456,Sanembo Health Post
+1457,Mpango Rural Health Center
+1458,Sibukali Rural Health Center
+1459,Kawama Rural Health Center
+1460,Mawawa Rural Health Center
+1461,Ikabako Health Post
+1462,Chimtengo Health Post
+1463,Site2100GK
+1464,Mtetezi-ZNS RHC
+1465,Lusuntha Rural Health Center
+1466,Chalala Health Post
+1467,Undi Rural Health Center
+1468,Mulungushi Agro Rural Health
+1469,Mulumbwa Mini Hospital
+1470,George Twatasha
+1471,Lubunga Rural Health Centre
+1472,Mangango Mission Hospital HAHC
+1473,ZASP Health Post
+1474,Site3050GG
+1475,Luanchuma Health Post
+1476,Mwami Mission HAHC
+1477,Kafue East
+1478,Munenga Rural Health Center
+1479,Roan Section 3 Health Center
+1480,Chansu Health Post
+1481,Ndoka Health Post
+1482,Siamatika Health Post
+1483,Mibenge Rural Health Center
+1484,Site8090GC
+1485,Chimunsanya Health Post
+1486,Zingalume Health Post
+1487,Kapilamikwa Health Post
+1488,Sokontwe Rural Health Center
+1489,Refugee Health Post
+1490,Chavuma District Hospital
+1491,Chambulumina Rural Health Post
+1492,Kalela Health Post
+1493,Misolo health Post
+1494,Nabwalya Rural Health Centre
+1495,Ngulwana Health Post
+1496,Chitaba Rural Health Center
+1497,Mulalila Health Post
+1498,Riverside Health Post
+1499,Kapata Rural Health Center
+1500,Kaunga Lueti Rural Health
+1501,Mundu Rural Health Center
+1502,Katombora Health Post
+1503,Kamitonte ZNS Rural Health Center
+1504,Mwika Rural Health Center
+1505,Mutalaeti Health Post
+1506,Thendere Rural Health Center
+1507,Hilltop Hospital- Solwezi
+1508,Maziba Health Post
+1509,Lumben/ananyezu
+1510,Mtukuzi Health Post
+1511,Mbati Rural Health Centre
+1512,Chitakata A Health Post
+1513,Northwestern Regn Camp
+1514,Chipunka Rural Health Center
+1515,Chibondo Rural Health Center
+1516,Nzoche Health Post
+1517,Luanshimba ZNS Rural Health Post
+1518,Muwele Rural Health Centre
+1519,State Ranch Health Post
+1520,Twatasha Health Post
+1521,Kasalamakanga Health Post
+1522,Mindolo Training Farms Health Post
+1523,Kalundu Rural Health Center
+1524,Kabange Rural Health center
+1525,Kakombe Rural Health Center
+1526,Nakatwelenge Health Post
+1527,Mwinilunga HAHC
+1528,Site9020GG
+1529,Zuze Health Post
+1530,Chifundo Rural Health Centre
+1531,Chinakila Rural Health Center
+1532,Lumei HP
+1533,Mulinga HP
+1534,Mfuwe Airport Clinic
+1535,Lukwizizi Health Post
+1536,Simango Rural Health Center
+1537,Tazara Health Post
+1538,Muchicha HP
+1539,UTH Women and New Born Hospital
+1540,Mwela Health Post
+1541,Mulonga Rural Health Center
+1542,Mutundu Rural Health Center
+1543,Bimbe Health Post
+1544,Mtwalo Rural Health Center
+1545,Ndafula Health post
+1546,Kampamba Health Post
+1547,Sasu Rural Health Center
+1548,Ncheka Health Post
+1549,Kabinga Rural Health Centre
+1550,Chanjoka Health Post
+1551,Mbale Health Post
+1552,Kasomalwela Rural Health
+1553,Kafwambila Rural Health Center
+1554,Mzigawa HP
+1555,Ipusukilo Rural Health Center
+1556,Kalyamani Health Post
+1557,Mayankwa Rural Health Center
+1558,Kefulwa Health Post
+1559,Mata Rural Health Center
+1560,Senka Rural Health Center
+1561,Natonga Health Post
+1562,Sikoongo RHC
+1563,Tulemane Health Center
+1564,Lipaneno Health Post
+1565,Mwanya Rural Health Center
+1566,Site3070GD
+1567,Dambwa Central Mini Hospital
+1568,Site9020GD
+1569,Lunyati RHC
+1570,Katumpa Health Post
+1571,Mupena Health Post
+1572,Kondwerani Rural Health Center
+1573,Evelyn Hone College Health post
+1574,Kafwimbi Rural Health Center
+1575,Zemba Rural Health Center
+1576,Chikuse Rural Health Center
+1577,Mayukwayukwa Rural Health
+1578,Njonjolo Rural Health Center
+1579,Kansanshi Mine Hospital (Formerly Clinic)
+1580,Siloloti Health Post
+1581,St. Dominics Mission (Kavu)Hospital
+1582,Mnukwa Rural Health Center
+1583,Chabbobboma Rural Health
+1584,Chati Rural Health Center
+1585,Lunsemfwa Rural Health Center
+1586,Kalundwana Rural Health
+1587,Salamo Heath Post
+1588,Lesa Wesu Medical Centre
+1589,Nyamphondolo Rural Health
+1590,Musuma Health Health Center
+1591,Kataba Rural Health Center
+1592,Simukanka Health Post
+1593,Site9060GF
+1594,Kananga Health Post
+1595,Satelite 30 Rural Health Center
+1596,Lububa Health Post
+1597,Mpanta Rural Health Centre
+1598,Mbala General HAHC
+1599,Simooya Health Post
+1600,Maheba D Rural Heath Center
+1601,Zimba Mission HAHC
+1602,Lwampungu Health Post
+1603,Luena Rural Health Center
+1604,Chipako Rural Health Center
+1605,Kimpitubwanga Health Center
+1606,Kamuzwazi Health Post
+1607,Chipungu Health Post
+1608,Kapala Health Post
+1609,Mangango ZNS (Kaoma) RHC
+1610,Kariba Rural Health Center
+1611,Mtilizi Rural Health Center
+1612,Kalwalo Health Post
+1613,Mupeta Rural Health Center
+1614,Chinyaku Health Post
+1615,Shimulala Health Post
+1616,Samuel Rural Health Center
+1617,Matapala
+1618,Chanyumbu Health Post
+1619,Chanjowe Health Post
+1620,Chanjobvu Rural Health Center
+1621,Site9060GG
+1622,Site9030GF
+1623,Mabonga Health Post
+1624,Mwachilele Health Post
+1625,Kabongo Rural Health Center
+1626,Seya Health Post
+1627,Nyanje Mission HAHC
+1628,Mulobola Rural Health Center
+1629,Site1030GF
+1630,Chaka Rural Health Center
+1631,Katandano ZNS Rural Health
+1632,St.Benedict Health Post
+1633,Ngimbu Rural Health Center
+1634,Kamsaro Health Post
+1635,Kalilo Rural Health Center
+1636,Mwansakombe Rural Health
+1637,Sishekanu Health Post
+1638,Kanyongoloka Rural Health Post
+1639,Mugurameno Health Post
+1640,Mphuka Rural Health Centre
+1641,Health and medical diagnostic center
+1642,Siwa Health Post
+1643,Kafulafuta Mission Rural Health
+1644,Mzime Health Post
+1645,Nkenga Rural Health Center
+1646,Lumpuma Rural Health Center
+1647,Site6080GC
+1648,Luangwa High School Rural Health Centre
+1649,Moloshi Rural Health Center
+1650,Kabitaka Hill Primary Care Facility-Kansansi Mine
+1651,St. Marys Health Post
+1652,Site9010GF
+1653,Chinkhombe Rural Health
+1654,Chitope Rural Health Centre
+1655,Mandombe Rural Health Centre
+1656,Siakasipa Health Post
+1657,Njoko Mission Rural Health
+1658,Kalima Health Post
+1659,Lubwe Mission Hospital HAHC
+1660,Ndasa Rural Health Center
+1661,Nangongwe Maternity Urban
+1662,Kapufi Health Post
+1663,Bwina Rural Health Center
+1664,Nkulumazhiba Rural Health
+1665,Nyangwe Rural Health Center
+1666,Matunga Health Post
+1667,Shemu Rural Health Center
+1668,Manjolo Health Post
+1669,Konja Rural Health Center
+1670,Lumwana Township Clinicn/a
+1671,Lumbe Health Post
+1672,Katiula Health Post
+1673,Makwe Health Post
+1674,Lukweta Rural Health Center
+1675,Lumbembe Health Post*
+1676,Isoka OPD
+1677,Site9030GC
+1678,Chamoto Health Post
+1679,Msima Health Post
+1680,Lunga Health Post
+1681,Kapongolo Health Post
+1682,Chiyota Rural Health Centre
+1683,1 Engr Regt Camp Hospital
+1684,Chililabombwe DHO
+1685,Sitoya Rural Health Center
+1686,Chifunda Health Post
+1687,Makupu A Health Post
+1688,Site6020GD
+1689,Victoria Falls Urban Health
+1690,Mwapula Health Post
+1691,Site3070GF
+1692,Kayeka Health Post
+1693,Kanundwa Rural Health Center
+1694,Chanda Mukulu Health post
+1695,Chitimbwa Rural Health Center
+1696,Tundula Health Post
+1697,Mutaa Health Post
+1698,Chishi Island Rural Health
+1699,Mnthipa Health Post
+1700,Chilasa Rural Health Center
+1701,Chigwe Health Post
+1702,Mporokoso Township Rural Health Center
+1703,Chikonkomene RHC
+1704,Chikungu Health Post
+1705,Mwasauka Health Post
+1706,Chilundu Health Post
+1707,Kaywala Rural Health Center
+1708,Hamududu Health Post
+1709,Chindwale HP
+1710,Mulekatembo Rural Health
+1711,Site3040GE
+1712,Chungu Rural Health Center
+1713,Makupu B Health Post
+1714,Chavuma DHO
+1715,Manga Rural Health Centre
+1716,Luola Health Post
+1717,Kapepula Health Post
+1718,Chifwenge Rural Health Center
+1719,Itumbi Health Post
+1720,Katube Health Post
+1721,Milenge District Hospital
+1722,Mwando Health Post
+1723,St. Joseph's Health Centre
+1724,Kabula 2 Health Post
+1725,Mukonshi Rural Health Center
+1726,Shimumbi Rural Health Center
+1727,Ninge Rural Health Center
+1728,Kapijimpanga Rural Health Center
+1729,Katapazi Rural Health Center
+1730,Nachisitu Rural Health Center
+1731,Mumbi Mfumu Health Post
+1732,Mung'omba
+1733,Jamba Rural Health Center
+1734,Mibenge Health Post
+1735,Site6050GD
+1736,Chimbola Health Post
+1737,Site3030GE
+1738,Site8090GD
+1739,Nkhanga Rural Health Center
+1740,Mumbula Health Post
+1741,Chocha Health Post
+1742,Inkunikila Health Post
+1743,Fikombo Health Post
+1744,Makwenda Health Post
+1745,Chowa Forest Health Post
+1746,Kapoche Health Post
+1747,Mulumbwa Health Post
+1748,Site3030GG
+1749,Lueti Rural Health Center
+1750,Kapilipika Health Post
+1751,Mwalala Rural Health Center
+1752,Chamandala Health Post
+1753,Kavalamanja Rural Health Centre
+1754,Mangelengele Health Post
+1755,Site3040GC
+1756,Kampumbu Rural Health Center
+1757,Mabua Health Post
+1758,Kawaza Health Post
+1759,John Farms Rural Health Center
+1760,Chunga Rural Health Center
+1761,Nkula Health Post
+1762,Naviluli Health Post
+1763,Kalulu Rural Health Center
+1764,Njoka Health Post
+1765,Nyambi 2 Rural Health Center
+1766,New Start
+1767,Winda Rural Health Center
+1768,Lupuka Health Post
+1769,Nasange Health Post
+1770,Egichikeni Rural Health Centre
+1771,Nyaluwiro Health Post
+1772,Kabvumo Community Health
+1773,Mbabala Island Rural Health
+1774,Simakutu Rural Health Center
+1775,Maano Health Post
+1776,Chozi Tazara clinic
+1777,Chinsimbwe Rural Health
+1778,Dambilo Health Post
+1779,Munyama health post (kabwe)
+1780,Nsonga Rural Health Center
+1781,Kwenje Health Post
+1782,Zokwe Rural Health Center
+1783,Makale Health Post
+1784,Rusangu Rural Health Center
+1785,Mungwi District Hospital
+1786,Chanama Health Post
+1787,Mwenge Health Post
+1788,Songea Health Post
+1789,ZNS Mumbezhi Camp
+1790,Demu Health Post
+1791,Chisunka Rural Health Center
+1792,Mbeta Health Post
+1793,Kasiya
+1794,Mandia Health Post
+1795,Chinkobo Health Post
+1796,Matemba Health Post
+1797,Kamilenje Health Post
+1798,Janeiro Health Post
+1799,SOS Children?s Village (z) Trust Clinic
+1800,Chimphanje Health Post
+1801,Lufubu Health Post
+1802,Luminu Rural Health Center
+1803,Site3020GC
+1804,Kabwela rural health center
+1805,Kalimeta Health Post
+1806,Kanyanga Health Center
+1807,Nsanja Health Post
+1808,Laurent Chita Health Post
+1809,Sampa Health Post
+1810,Nyalugwe Rural Health Center
+1811,Afumba Rural Health Center
+1812,Katambo Health Post
+1813,Airport Urban Health Center
+1814,Site9020GE
+1815,Chinondo Rural Health Center
+1816,Matelo Health Post
+1817,Shikabeta Rural Health Center
+1818,Kabeleka Rural Health Centre
+1819,Mphawa Health Post
+1820,Mushwala Health Post
+1821,Maunga Health Post*
+1822,Charles Lwanga Rural Health
+1823,Sinakasikili Health Post
+1824,Zambia Helpers Society Hospital
+1825,Magobo Health Post
+1826,Kaseke Health Post
+1827,West Five Rural Health Center
+1828,Mulala Rural Health Center
+1829,Chasefu Rural Health Center
+1830,Mwenichanka Rural Health
+1831,Kansoka Health Post
+1832,Site2040GG
+1833,Lukoko HP
+1834,Kafula OPD
+1835,ZNS-Safari Health Post
+1836,Upper Lusemfwa Health Post
+1837,Kamfutu Health Post
+1838,Malombe Health Post
+1839,Mumbwa Mine Clinic
+1840,Chankalamo Health Post
+1841,Njipi Rural Health Center
+1842,Trinity Clinic
+1843,Mambungo Health Post
+1844,Shibanga Aha  Health Post
+1845,Musokotwane Rural Health
+1846,Vyamba Rural Health Center
+1847,Sulwegonde Rural Health
+1848,Lundu Rural Health Center
+1849,Mkasanga Health Post
+1850,Mukupa Katandula Rural Health
+1851,Muntanga Health Post
+1852,Chitunkubwe Health Post
+1853,Chisheta Rural Health Center
+1854,Chalokwa Health Post
+1855,Mwape Rural Health Center
+1856,Kapambwe Health Post
+1857,Mufuma maternity annex Health Post
+1858,MCH
+1859,Site8110GD
+1860,Mlanga Rural Health Center
+1861,Philip Health Post
+1862,Chinyingi Rural Health Center
+1863,Kalabo DHO
+1864,Chipeketi Health Post
+1865,Namando Health Post
+1866,Moseni Health Post
+1867,Mukanga Rural Health Center
+1868,Site9020GC
+1869,Amoro Health Post
+1870,Chainama Teaching Clinic
+1871,Mpika District HAHC
+1872,Kantenshya Health Post
+1873,Nabbanda Health Post
+1874,Site3020GD
+1875,Lambwe Chikwama Health Post
+1876,Site3020GF
+1877,Nalubanda Rural Health Center
+1878,Sitwe Rural Health Center
+1879,Lulang'unyi Health Post
+1880,Chilubanama Rural Health
+1881,Site9060GD
+1882,Maumba Health Post
+1883,Nyimba Hospital HAHC
+1884,UTH Filter Clinic
